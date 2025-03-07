@@ -1,0 +1,3 @@
+-- why are you here
+loadstring(game:HttpGet("https://pastebin.com/raw/xKextYP5"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JakeScripterz/Mastery-Deku/refs/heads/main/Move-Names"))()
